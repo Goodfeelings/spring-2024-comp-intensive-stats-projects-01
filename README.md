@@ -6,8 +6,8 @@ __Instructor: Dr. Ping Sa__ \
 __Textbook: Simulation, 6th Ed. by Sheldon M. Ross__
 
 
-The Course description and other information can be found among the following links: \
-* Degree Requirements: https://www.unf.edu/catalog/programs/gr/coas/COAS-MSAMATMAT1.html \
+The Course description and other information can be found among the following links: 
+* Degree Requirements: https://www.unf.edu/catalog/programs/gr/coas/COAS-MSAMATMAT1.html 
 * Course Catalogue: https://www.unf.edu/catalog/courses/?level=gr#
 * Textbook: https://shop.elsevier.com/books/simulation/ross/978-0-323-85738-3
 
